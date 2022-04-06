@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+}
+.head{
+    background: black;
+    margin: 0 auto;
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sushi{
+    height: 250px;
+    width: 200px;
+    background: #fdfdfe;
+    box-sizing: border-box;
+    border: 1px solid silver;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fa-earth-africa{
+    color: silver;
+    font-size: 30px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0px;
+}
+.fa-fire{
+    color: silver;
+    font-size: 30px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0px;
+}
+.fa-location-dot{
+    color: silver;
+    font-size: 30px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0px;
+}
+.fa-star{
+    color: silver;
+    font-size: 30px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 10px 0px;
+}
+.txt{
+    color: darkorange;
+    font-size: 20px;
+}
+.txt1{
+    color: silver;
+    font-family: Arial;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.txt2{
+    width: 70%;
+    height: 40px;
+    background: aqua;
+    color: silver;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}
+.name{
+    margin:7px;
+    color: silver;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}

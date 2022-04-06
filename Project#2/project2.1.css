@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.project2\.1{
+    background: silver;
+    margin: 0 auto;
+    height: 300px;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sushi{
+    height: 250px;
+    width: 200px;
+    background: #fdfdfe;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.sushi1{
+    height: 33%;
+    width: 80%;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sushi2{
+    height: 33%;
+    width: 80%;
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+.sushi3{
+    height: 15%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    font: 30px;
+}
