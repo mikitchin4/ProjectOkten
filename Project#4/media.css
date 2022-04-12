@@ -1,0 +1,13 @@
+@media screen and (max-width: 1000px) and (max-width: 1200px) {
+    .bcdh {
+        flex-direction: column;
+    }
+    .bcd {
+        order: 2;
+        width: 100%;
+    }
+    .h {
+        order: 3;
+        width: 100%;
+    }
+}

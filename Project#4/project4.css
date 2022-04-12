@@ -1,0 +1,36 @@
+body {
+    margin: 0}
+.main {
+    width: 1100px;
+    height: 500px;
+}
+.a {
+    background: green;
+    width: 100%;
+    height: 120px;
+}
+.bcdh {
+    width: 100%;
+    height: 380px;
+    display: flex;
+}
+.bcd {
+    background: indigo;
+    width: 75%;
+    height: 380px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.b {
+    background: fuchsia;
+    width: 25%;
+    height: 180px;}
+.h {
+    background: orange ;
+    width: 275px;
+    height: 380px;
+    display: flex;
+}
