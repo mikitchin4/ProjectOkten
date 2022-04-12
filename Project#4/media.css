@@ -1,13 +1,22 @@
-@media screen and (max-width: 1000px) and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
     .bcdh {
         flex-direction: column;
+        width: 100%;
     }
     .bcd {
-        order: 2;
         width: 100%;
+        height: 300px;
     }
     .h {
-        order: 3;
         width: 100%;
+        height: 300px;
+    }
+    .a {
+        height: 100px;
+    }
+    .b {
+        width: 33.3%;
+        height: 150px;
+
     }
 }

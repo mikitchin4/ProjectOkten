@@ -1,36 +1,34 @@
 body {
     margin: 0}
 .main {
-    width: 1100px;
-    height: 500px;
+    width: 1000px;
+    min-height: 400px;
+    margin: 0 auto;
 }
 .a {
     background: green;
-    width: 100%;
+    width: 1000px;
     height: 120px;
 }
 .bcdh {
-    width: 100%;
-    height: 380px;
+    width: 1000px;
+    min-height: 280px;
     display: flex;
 }
 .bcd {
-    background: indigo;
     width: 75%;
-    height: 380px;
+    height: 280px;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
     flex-wrap: wrap;
 }
 .b {
-    background: fuchsia;
-    width: 25%;
-    height: 180px;}
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, darkslategray 47%,hotpink 53%, purple 74%);
+    width: 33.3%;
+    height: 280px;}
 .h {
     background: orange ;
-    width: 275px;
-    height: 380px;
+    width: 25%;
+    height: 280px;
     display: flex;
 }
